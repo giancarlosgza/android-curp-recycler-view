@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">evidencia-2</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+    <string name="guardar">Guardar</string>
+    <string name="fecha_de_nacimiento">Fecha de nacimiento: AAMMDD</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+    <string name="nombre">Nombre:</string>
+    <string name="segundo_apellido">Segundo Apellido:</string>
+    <string name="primer_apellido">Primer Apellido:</string>
+    <string name="ingresa_los_siguientes_datos_para_obtener_tu_curp">Ingresa los siguientes datos para obtener tu CURP</string>
+    <string name="sexo">Sexo:</string>
+    <string name="entidadF">Entidad Federativa:</string>
+    <string name="tus_datos_son">Tus datos son:</string>
+    <string name="tu_curp_es">Tu CURP es:</string>
+    <string name="error_email_exists">LOL</string>
+    <string name="error_message_nombre">Ingresa tu nombre</string>
+    <string name="error_message_apellido">Ingresa tu apellido</string>
+
+    <string-array name="arrayGenero">
+        <item name="hombre">Hombre</item>
+        <item name="mujer">Mujer</item>
+    </string-array>
+
+    <string-array name="entidad">
+        <item>Aguscalientes</item>
+        <item>Baja California</item>
+        <item>Baja California Sur</item>
+        <item>Campeche</item>
+        <item>Chiapas</item>
+        <item>Chihuahua</item>
+        <item>Coahuila de Zaragoza</item>
+        <item>Colima</item>
+        <item>Ciudad de México</item>
+        <item>Durango</item>
+        <item>Guanajuato</item>
+        <item>Guerrero</item>
+        <item>Hidalgo</item>
+        <item>Jalisco</item>
+        <item>Mexico</item>
+        <item>Michoacan de Ocampo</item>
+        <item>Morelos</item>
+        <item>Nayarit</item>
+        <item>Nuevo León</item>
+        <item>Oaxaca</item>
+        <item>Puebla</item>
+        <item>Queretaro de Arteaga</item>
+        <item>Quintana Roo</item>
+        <item>San Luis Potosi</item>
+        <item>Sinaloa</item>
+        <item>Sonora</item>
+        <item>Tabasco</item>
+        <item>Tamaulipas</item>
+        <item>Tlaxcala</item>
+        <item>Veracruz-Llave</item>
+        <item>Yucatan</item>
+        <item>Zacatecas</item>
+    </string-array>
+</resources>
